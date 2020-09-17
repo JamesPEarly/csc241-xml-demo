@@ -1,9 +1,9 @@
 package csc241;
 
-import javax.xml.parsers.*;
 import org.xml.sax.*;
 import org.xml.sax.helpers.*;
 
+import javax.xml.parsers.*;
 import java.io.File;
 
 

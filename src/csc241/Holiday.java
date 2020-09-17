@@ -12,7 +12,7 @@ public class Holiday {
     }
 
     public String toString(){
-        return month + ", " + day + "-" + name;
+        return month + ", " + day + " - " + name;
     }
 
 }

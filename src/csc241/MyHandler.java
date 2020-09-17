@@ -8,6 +8,7 @@ import org.xml.sax.helpers.*;
 
 class MyHandler extends DefaultHandler{
 
+    // Instance variables store values across method calls
     private String currentMonth;
     public Holiday currentHoliday;
 
